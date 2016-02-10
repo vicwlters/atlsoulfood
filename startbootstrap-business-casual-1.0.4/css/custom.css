@@ -2,7 +2,7 @@
     background-image:url('https://images.unsplash.com/photo-1443557661966-8b4795a6f62c?crop=entropy&dpr=0.67&fit=crop&fm=jpg&h=1250&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2175');
     background-size:cover;
     background-color: #EEEEEE;
-    height: 100vh;
+    height: 90vh;
     width: 100%;
   }
 
@@ -20,5 +20,29 @@
 
 
 .item {
-  height:500px;
+  height:400px;
+}
+
+.about {
+  background-image:url('https://images.unsplash.com/photo-1444852538915-ac95232916dd?crop=entropy&dpr=0.67&fit=crop&fm=jpg&h=1250&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2175');
+  background-size:cover;
+  background-color: #EEEEEE;
+  height: 50vh;
+  width: 100%;
+}
+
+.blog {
+  background-image:url('https://images.unsplash.com/photo-1430165558479-de3cf8cf1478?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=efe4f9bee30ae332d8048eaffe6f0a31');
+  background-size:cover;
+  background-color: #EEEEEE;
+  height: 50vh;
+  width: 100%;
+}
+
+.contact {
+  background-image:url('https://images.unsplash.com/photo-1421882046699-09a0ff4ffb1b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=84f02263bdcd78ad2311ec7169af6dd3');
+  background-size:cover;
+  background-color: #EEEEEE;
+  height: 50vh;
+  width: 100%;
 }
