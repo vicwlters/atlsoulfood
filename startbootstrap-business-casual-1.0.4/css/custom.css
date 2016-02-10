@@ -7,10 +7,18 @@
   }
 
 .hero-content {
-  vertical-align: middle;
+  position:absolute;
+ top:25%;
+ text-align:center;
+ width:100%;
+ color:#fff;
+ -ms-transform: translate(0,-50%); /* IE 9 */
+   -webkit-transform: translate(0,-50%); /* Safari */
+   transform: translate(0,-50%);
+
 }
 
 
 .item {
-  height:500px;  
+  height:500px;
 }
